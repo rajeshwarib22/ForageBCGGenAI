@@ -9,6 +9,6 @@ What you'll learn
 - Preparing and processing data for AI-driven applications.
 
 What you'll do
-Extract financial data from provided 10-K documents.
-Conduct a basic analysis to identify significant financial trends and indicators.
-Format and clean the data for further processing in an AI model.
+- Extract financial data from provided 10-K documents.
+- Conduct a basic analysis to identify significant financial trends and indicators.
+- Format and clean the data for further processing in an AI model.
